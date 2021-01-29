@@ -232,7 +232,7 @@ void sutherland_hodgman(){
 
 
 int main(){
-    freopen("input.txt", "r", stdin);
+    //freopen("input.txt", "r", stdin);
 
     d['L'] = "LEFT"; d['R'] = "RIGHT";
     d['T'] = "TOP"; d['B'] = "BOTTOM";
